@@ -1,3 +1,3 @@
-count = 0
+count = 1
 while count < 3:
-    print(count)
+    count += count
